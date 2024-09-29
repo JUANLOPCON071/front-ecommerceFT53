@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import React, { useEffect, useState } from 'react'
 
-const searchPage = ({params}: { params: { id: string } }) => {
+const SearchPage = ({params}: { params: { id: string } }) => {
     const {id} = params;
     const router = useRouter()
     const [searchProducts, setSearchProducts] = useState<IProduct[]>()
@@ -34,4 +34,4 @@ const searchPage = ({params}: { params: { id: string } }) => {
   )
 }
 
-export default searchPage
+export default SearchPage

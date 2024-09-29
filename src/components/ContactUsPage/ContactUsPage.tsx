@@ -13,21 +13,21 @@ const ContactUsPage = () => {
                         <h2 className="text-5xl font-medium mb-5">Get In Touch</h2>
                         <p className="text-xl font-semibold opacity-60">Have any questions or need assistance? Reach out to us, and we'll get back to you as soon as possible!</p>
                         <div className="flex mt-7">
-                            <img className='w-[50px] transform transition-transform duration-500 hover:scale-125' src="https://www.svgrepo.com/show/127575/location-sign.svg" alt="" />
+                            <img className="w-[50px] transform transition-transform duration-500 hover:scale-125" src="https://www.svgrepo.com/show/127575/location-sign.svg" alt="" />
                             <div className="ml-4">
                                 <p className="text-2xl font-medium">Address</p>
                                 <p className="text-2xl opacity-60">London Eye, London, UK</p>
                             </div>
                         </div>
                         <div className="flex mt-7">
-                            <img className='w-[50px] transform transition-transform duration-500 hover:scale-125' src="https://www.svgrepo.com/show/64208/phone.svg" alt="" />
+                            <img className="w-[50px] transform transition-transform duration-500 hover:scale-125" src="https://www.svgrepo.com/show/64208/phone.svg" alt="" />
                             <div className="ml-4">
                                 <p className="text-2xl font-medium">Phone Number</p>
                                 <p className="text-2xl opacity-60">+123-456-7890</p>
                             </div>
                         </div>
                         <div className="flex mt-7">
-                            <img className='w-[50px] transform transition-transform duration-500 hover:scale-125' src="https://www.svgrepo.com/show/14478/email.svg" alt="" />
+                            <img className="w-[50px] transform transition-transform duration-500 hover:scale-125" src="https://www.svgrepo.com/show/14478/email.svg" alt="" />
                             <div className="ml-4">
                                 <p className="text-2xl font-medium">E-Mail</p>
                                 <p className="text-2xl opacity-60">mailto@subx.com</p>
@@ -39,10 +39,10 @@ const ContactUsPage = () => {
                         <div className=" mt-7 mb-5">
                             <p className="text-2xl font-medium">Follow Us:</p>
                             <div className="flex ml-4 mt-3">
-                                <img className='w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5' src="https://www.svgrepo.com/show/3885/facebook.svg" alt="" />
-                                <img className='w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5' src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="" />
-                                <img className='w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5' src="https://www.svgrepo.com/show/13671/youtube.svg" alt="" />
-                                <img className='w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5' src="https://www.svgrepo.com/show/365495/instagram-logo-thin.svg" alt="" />
+                                <img className="w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5" src="https://www.svgrepo.com/show/3885/facebook.svg" alt="" />
+                                <img className="w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="" />
+                                <img className="w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="" />
+                                <img className="w-[50px] transform transition-transform duration-500 hover:scale-125 mr-5" src="https://www.svgrepo.com/show/365495/instagram-logo-thin.svg" alt="" />
                             </div>
                         </div>
                     </div>
